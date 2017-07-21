@@ -2,6 +2,6 @@
 
 <html>
 <body>
-<h2>Test Provisioning UI Web Application echo: <%=new Date()%></h2>
+<h1>Test Provisioning UI Web Application echo: <%=new Date()%></h1>
 </body>
 </html>
